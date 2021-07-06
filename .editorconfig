@@ -11,8 +11,11 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-[*.{ts,tsx,js,jsx,json,css}]
+[*.{ts,tsx,js,jsx,json}]
 indent_size = 2
 
 [*.md]
 trim_trailing_whitespace = false
+
+[*.{css,scss}]
+indent_size = 2

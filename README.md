@@ -65,6 +65,10 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
+## 🍕 Degustação
+
+Você pode testar o app acessando o seguinte endereço [LetMeAsk](https://letmeask-4f6ba.web.app/). Caso o app esteja fora do ar, aguarde algumas horas pois pode ser que ele esteja em manutenção ok? 🤙
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.

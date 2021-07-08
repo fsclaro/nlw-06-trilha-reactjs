@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/Tela1.png" width="160px">
+  <img alt="Letmeask" src=".github/Tela1.png" width="900px">
 </p>
 
 <p align="center">

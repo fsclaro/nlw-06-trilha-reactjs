@@ -16,7 +16,7 @@
 
 ## 🧪 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Para este projeto, foram utilizadas as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
@@ -24,14 +24,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 
-Clone o projeto e acesse a pasta do mesmo.
+Passo 1: Faça a clonagem do projeto com o comando abaixo
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/fsclaro/nlw-06-trilha-reactjs
 ```
 
-Para iniciá-lo, siga os passos abaixo:
+Passo 2: Entre na pasta do projeto
+
+```bash
+$ cd nlw-06-trilha-reactjs
+```
+
+Passo 3: Inicie o projeto conforme os passos descritos abaixo:
+
 ```bash
 # Instalar as dependências
 $ yarn
@@ -41,11 +47,12 @@ $ yarn start
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
+## ☁️ Banco de Dados
+O projeto utiliza os recursos do Firebase da Google para armazenamento dos dados, portanto será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
 
 ## 💻 Projeto
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
+O Letmeask é um projeto muito interessante para situações onde se deseja criar um app do tipo Q&A.
 
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 
@@ -64,4 +71,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
+Feito com ❤️ by NandoSalles baseado no projeto original do [NWL 6 da Rocketseat](https://rocketseat.com.br).

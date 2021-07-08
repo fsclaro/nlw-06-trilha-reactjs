@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/Tela1.png" width="900px">
+  <img alt="Letmeask" src=".github/logo.svg" width="160px">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" src=".github/Tela1.png" width="900px" />
 </h1>
 
 <br>

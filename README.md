@@ -14,7 +14,7 @@
 
 <br>
 
-## 🧪 Tecnologias
+## 🧪 Tecnologias utilizadas
 
 Para este projeto, foram utilizadas as seguintes tecnologias:
 
@@ -24,13 +24,13 @@ Para este projeto, foram utilizadas as seguintes tecnologias:
 
 ## 🚀 Como executar
 
-Passo 1: Faça a clonagem do projeto com o comando abaixo
+Passo 1: Faça a clonagem do projeto com o comando abaixo:
 
 ```bash
 $ git clone https://github.com/fsclaro/nlw-06-trilha-reactjs
 ```
 
-Passo 2: Entre na pasta do projeto
+Passo 2: Entre na pasta do projeto:
 
 ```bash
 $ cd nlw-06-trilha-reactjs
@@ -65,10 +65,10 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
-## 📝 License
+## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com ❤️ by NandoSalles baseado no projeto original do [NWL 6 da Rocketseat](https://rocketseat.com.br).
+Feito com ❤️ by NandoSalles baseado no projeto original do [NLW 6 da Rocketseat](https://rocketseat.com.br).

@@ -38,6 +38,11 @@ export function Home() {
       return
     }
 
+    if (roomRef.val().endedAt) {
+      toast.error('Lamento, mas esta sala está fechada.')
+      return
+    }
+
     history.push(`/rooms/${roomCode}`)
   }
 
